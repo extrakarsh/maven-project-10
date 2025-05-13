@@ -33,7 +33,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.maveenproject10.project10.App</mainClass>
+            <mainClass>com.prg8.build</mainClass>
           </manifest>
         </archive>
       </configuration>
