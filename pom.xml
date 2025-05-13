@@ -34,7 +34,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.prg8.build</mainClass>
+            <mainClass>com.prg8.build.App</mainClass>
           </manifest>
         </archive>
       </configuration>
